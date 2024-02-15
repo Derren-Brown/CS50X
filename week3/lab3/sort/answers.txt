@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it has a distinct difference between reversed version and sorted version
+
+sort2 uses: merge sort
+
+How do you know?: it takes the least time
+
+sort3 uses: selection sort
+
+How do you know?: it hasn't a distinct difference between reversed version and sorted version
